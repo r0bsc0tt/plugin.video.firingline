@@ -1,0 +1,7 @@
+<?xml version="1.0.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <!-- Plugin name -->
+    <string id="30000">Recent Uploads</string>
+    <string id="30001">Episodes By Year</string>
+    <string id="30002">Browse All Episodes</string>
+</strings>

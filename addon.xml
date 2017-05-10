@@ -1,0 +1,25 @@
+<?xml version="1.0.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.firingline" name="Firing Line with William F. Buckley Jr" version="1.0.0" provider-name="Rob Scott">
+  <requires>
+    <import addon="xbmc.python"                     version="2.20.0"/>
+    <import addon="script.module.xbmcswift2"        version="2.4.0"/>
+    <import addon="script.module.beautifulsoup4"    version="4.3.1"/>
+    <import addon="script.module.requests"          version="2.5.3"/>
+</requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <language></language>
+    <summary lang="en_GB">Firing Line with William F. Buckley Jr.
+    </summary>
+    <description lang="en_GB">From 1966 to 1999, the television series Firing Line with William F. Buckley Jr. was a venue for debate and discussion on political, social, and philosophical issues with experts of the day.
+    </description>
+    <license>The MIT License (MIT)</license>
+    <forum>http://forum.kodi.tv/showthread.php?tid=xxx</forum>
+    <email>robertjscott1@gmail.com</email>
+    <source>https://github.com/r0bsc0tt/plugin.video.firingline/.git</source>
+    <website></website>
+  </extension>
+</addon>
